@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jqeIkYwS6NVMlcxJVezH4FZRbMd1pracmrn9EXe884Y=",
+  "Source": "BackAppControllersPractice",
+  "BasePath": "_content/BackAppControllersPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BackAppControllersPractice\\wwwroot",
+      "Source": "BackAppControllersPractice",
+      "ContentRoot": "D:\\Programming\\Github Projects\\.NetCore-Practice-Controllers\\BackAppControllersPractice\\wwwroot\\",
+      "BasePath": "_content/BackAppControllersPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Programming\\Github Projects\\.NetCore-Practice-Controllers\\BackAppControllersPractice\\wwwroot\\dummy-file.pdf",
+      "SourceId": "BackAppControllersPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Github Projects\\.NetCore-Practice-Controllers\\BackAppControllersPractice\\wwwroot\\",
+      "BasePath": "_content/BackAppControllersPractice",
+      "RelativePath": "dummy-file.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummy-file.pdf"
+    }
+  ]
+}
